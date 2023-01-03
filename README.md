@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 
+
+I am an engineer in New Zealand who has an interest in embedded systems. I develop hardware and software as part of my day job with a focus on the hardware. My main languages are Python and C++.
 
 <!--
 **Zephyr1371/Zephyr1371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
